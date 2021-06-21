@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:nlw_payflow/src/shared/consts/app_colors_const.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-class AppTextStyles {
+class AppTextStylesConst {
   static final titleHome = GoogleFonts.lexendDeca(
     fontSize: 32,
     fontWeight: FontWeight.w600,
